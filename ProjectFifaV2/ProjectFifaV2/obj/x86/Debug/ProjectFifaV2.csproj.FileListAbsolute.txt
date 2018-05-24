@@ -57,3 +57,18 @@ C:\Users\Sander van Deurzen\Documents\school\periode 4\Project_FIFA - SymbolicLi
 C:\Users\Gerben\Dropbox\Radius College\P4\Project_FIFA\Project_C#\ProjectFifaV2\ProjectFifaV2\bin\Debug\ProjectFifaV2.exe.config
 C:\Users\Gerben\Dropbox\Radius College\P4\Project_FIFA\Project_C#\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.exe
 C:\Users\Gerben\Dropbox\Radius College\P4\Project_FIFA\Project_C#\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.pdb
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\bin\Debug\db.mdf
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\bin\Debug\db_log.ldf
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\bin\Debug\ProjectFifaV2.exe.config
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\bin\Debug\ProjectFifaV2.exe
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\bin\Debug\ProjectFifaV2.pdb
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.csprojResolveAssemblyReference.cache
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.frmAdmin.resources
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.frmLogin.resources
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.frmPlayer.resources
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.frmRanking.resources
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.Properties.Resources.resources
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.csproj.GenerateResource.Cache
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.csproj.CoreCompileInputs.cache
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.exe
+C:\schoolprojects\projectfifac#\fifa3_c-\ProjectFifaV2\ProjectFifaV2\obj\x86\Debug\ProjectFifaV2.pdb
