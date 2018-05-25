@@ -114,7 +114,7 @@ namespace ProjectFifaV2
                 Label lblAwayTeam = new Label();
                 TextBox txtHomePred = new TextBox();
                 TextBox txtAwayPred = new TextBox();
-
+                
                 lblHomeTeam.TextAlign = ContentAlignment.BottomRight;
                 lblHomeTeam.Text = dataRowHome["TeamName"].ToString();
                 lblHomeTeam.Location = new Point(15, txtHomePred.Bottom + (i * 30));
@@ -147,6 +147,11 @@ namespace ProjectFifaV2
         internal void GetUsername(string un)
         {
             userName = un;
+        }
+
+        private void btnEditPrediction_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
